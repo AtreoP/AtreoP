@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @AtreoP
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in competitive programming and software development
+- 🌱 I’m currently learning DSA (OOP included)
+- 💞️ I’m looking to collaborate on various projects
+- 📫 How to reach me via 
+Email - atreo973@gmail.com
+Discord - 𝓡𝓮𝓲𝓷#5091
+Whatsapp - 8448510797
 
 <!---
 AtreoP/AtreoP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
