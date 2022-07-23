@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AtreoP
+- 👋 Hi, I’m Atreo Pramanick
 - 👀 I’m interested in competitive programming and software development
 - 🌱 I’m currently learning DSA (OOP included)
 - 💞️ I’m looking to collaborate on various projects
