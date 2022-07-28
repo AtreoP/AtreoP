@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me via 
 Email - atreo973@gmail.com
-Discord - 𝓡𝓮𝓲𝓷#5091
+Discord - Atreo#9575
 Whatsapp - 8448510797
 
 <!---
