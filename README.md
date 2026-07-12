@@ -25,8 +25,8 @@
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, C/C++, SQL
-- **Libraries:** Pandas, NumPy, Scikit‑Learn, Matplotlib, Seaborn, YOLO, Flask, FastAPI  
-- **Tools:** Git/GitHub, Linux, HuggingFace, Streamlit, Docker, Postgres
+- **Libraries:** Pandas, NumPy, Scikit‑Learn, Matplotlib, Seaborn, YOLO, Flask, FastAPI, HuggingFace, Streamlit
+- **Tools:** Git/GitHub, Linux, Docker, Postgres
 
 ---
 
