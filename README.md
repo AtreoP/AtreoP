@@ -5,7 +5,9 @@
 [![Email](https://img.shields.io/badge/Email-atreo973%40gmail.com-red?logo=gmail)](mailto:atreo973@gmail.com)
 
 🎓 B.Tech CSE @ SRM Institute of Science and Technology 
-🚀 AI/ML Engineer | R&D Intern @ Siemens EDA  \\
+
+🚀 AI/ML Engineer | R&D Intern @ Siemens EDA  
+
 🏆 GATE 2026 Qualified | NASA SpaceApps Finalist  
 
 ---
