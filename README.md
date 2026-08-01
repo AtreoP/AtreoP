@@ -115,17 +115,17 @@ Mishra, S., Singh, V., Pramanick, A., Tripathi, A., Sharma, N. (2026). *Smart Dr
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AtreoP&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0&text_color=c9d1d9&ring_color=8E2DE2" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AtreoP&hide_border=true&background=0D1117&stroke=8E2DE2&ring=4A00E0&fire=8E2DE2&currStreakLabel=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AtreoP&show_icons=true&hide_border=true&theme=tokyonight" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AtreoP&hide_border=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtreoP&layout=compact&hide_border=true&bg_color=0D1117&title_color=8E2DE2&text_color=c9d1d9" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtreoP&layout=compact&hide_border=true&theme=tokyonight" />
 
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtreoP&theme=react-dark&hide_border=true&bg_color=0D1117&color=c9d1d9&line=8E2DE2&point=ffffff" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtreoP&theme=tokyo-night&hide_border=true" width="100%" />
 </div>
 
 <br>
