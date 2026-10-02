@@ -1,6 +1,6 @@
 # Hi, I'm Atreo Pramanick 👋
 
-B.Tech CSE graduate (SRM IST, CGPA 9.05) focused on machine learning, deep learning, and automation. Ex-R&D intern at Siemens EDA.
+A CSE graduate from SRM IST focused on Machine Learning, Deep Learning, and Automation. 
 
 ## Experience
 
